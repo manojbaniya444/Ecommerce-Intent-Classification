@@ -1,0 +1,19 @@
+data:
+  train_data: data/train.csv
+  val_data: data/val.csv
+  batch_size: 2
+  num_workers: 1
+
+model:
+  hidden_size: 8
+  dropout: 0.2
+
+training:
+  num_epochs: 10
+  learning_rate: 0.001
+  device: "cpu"
+  save_dir: checkpoints
+
+logging:
+  log_dir: "logs"
+  experiment_name: "ann_classification"

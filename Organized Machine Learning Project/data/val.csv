@@ -1,0 +1,8 @@
+text,intent
+"I'm thrilled with the quality of this item.",Positive
+"This is an awful product.",Negative
+"It's neither good nor bad.",Neutral
+"Excellent performance by the team!",Positive
+"I regret buying this so much.",Negative
+"It does the job, but not exceptionally.",Neutral
+"Such a great experience overall!",Positive

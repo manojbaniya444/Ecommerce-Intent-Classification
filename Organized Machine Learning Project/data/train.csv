@@ -1,0 +1,18 @@
+text,intent
+"I absolutely love this product!",Positive
+"This is the worst service I have ever experienced.",Negative
+"It's okay, nothing special.",Neutral
+"The customer support was fantastic!",Positive
+"I hate how this item breaks so easily.",Negative
+"Not bad, but it could be better.",Neutral
+"Everything about this trip was amazing!",Positive
+"I'm so disappointed with this result.",Negative
+"This movie was just average.",Neutral
+"Wonderful experience, would recommend to everyone!",Positive
+"Terrible food and horrible service.",Negative
+"It's fine, I guess.",Neutral
+"The behavior of the staff was unacceptable.",Negative
+"Meh, I've seen better.",Neutral
+"Highly satisfied with my purchase!",Positive
+"The delivery was delayed and the item was damaged.",Negative
+"It's decent, meets the expectations.",Neutral
