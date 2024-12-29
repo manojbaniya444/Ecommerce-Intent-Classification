@@ -39,7 +39,7 @@ fastapi dev api/app.py
 
 URL:  `http://localhost:8080/single-predict`
 
-BODY PARAMETER: `{"text": "I really love this product}` 
+BODY PARAMETER: `{"text": "I really love this product"}` 
 
 RESPONSE: `{predicted_intent: "Positive"}`
 
