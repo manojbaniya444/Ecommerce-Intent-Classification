@@ -8,6 +8,13 @@ A simple text classification project.
 
 ```bash
 pip install -r requirements.txt
+pip install -e .
+```
+
+### Verify Installation
+
+```bash
+python -c "from src.models.model import TextClassifier; print('Success')"
 ```
 
 ### Train the model with the CONFIG.YAML file
@@ -21,6 +28,20 @@ python train.py --config config/config.yaml
 ```bash
 python -m pytest
 ```
+
+### Run the API Server
+
+```bash
+fastapi dev api/app.py
+```
+
+**Make Prediction**:
+
+URL:  `http://localhost:8080/single-predict`
+
+BODY PARAMETER: `{"text": "I really love this product}` 
+
+RESPONSE: `{predicted_intent: "Positive"}`
 
 ## Directory
 

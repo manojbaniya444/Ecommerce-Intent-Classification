@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: text_classification
+Version: 0.1
+Requires-Dist: torch>=1.9.0
+Requires-Dist: pyYAML>=5.4.1
+Requires-Dist: pytest==8.3.4
+Requires-Dist: fastapi[standard]
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn

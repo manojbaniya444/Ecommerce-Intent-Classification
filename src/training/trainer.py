@@ -136,5 +136,5 @@ class Trainer:
             
             if val_acc > self.best_val_acc:
                 self.best_val_acc = val_acc
-                torch.save(self.model.state_dict(), save_dir / "best_model.pth")
+                torch.save(self.model.state_dict(), save_dir / "best-model.pth")
                 logging.info(f"Saved best model with validation accuracy: {val_acc: .4f}")
