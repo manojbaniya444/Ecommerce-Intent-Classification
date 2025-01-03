@@ -1,5 +1,11 @@
-## Text Classification
-A simple text classification project.
+## Ecommerce Intent Classification
+Intent classification model for Ecommerce customer queries. Intent is classified among 4 different classes:
+- PRODUCT INQUIRY
+- PAYMENT METHOD
+- ORDER STATUS
+- ORDER PRODUCT
+
+This Project is organized so that,
 
 - Easily Change the hyperparameters in [Config File](./config/config.yaml)
 - Modify data transforms in [Dataset File](./src/data/dataset.py)
