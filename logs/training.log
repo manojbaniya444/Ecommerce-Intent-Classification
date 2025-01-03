@@ -40,3 +40,99 @@
 2024-12-30 01:27:05,926 - INFO - Metrics: {'train_loss': 1.083479967382219, 'train_acc': 35.294117647058826, 'val_loss': 1.0888323485851288, 'val_acc': 28.571428571428573}
 2024-12-30 01:27:05,927 - INFO - Epoch 9/10
 2024-12-30 01:27:12,387 - INFO - Metrics: {'train_loss': 1.094959682888455, 'train_acc': 35.294117647058826, 'val_loss': 1.0882249772548676, 'val_acc': 28.571428571428573}
+2025-01-03 23:22:59,905 - INFO - Epoch 0/20
+2025-01-03 23:23:08,191 - INFO - Metrics: {'train_loss': 1.4041797887711298, 'train_acc': 31.055900621118013, 'val_loss': 1.3478063821792603, 'val_acc': 0.0}
+2025-01-03 23:23:08,191 - INFO - Epoch 1/20
+2025-01-03 23:23:15,102 - INFO - Metrics: {'train_loss': 1.3737207934969948, 'train_acc': 31.055900621118013, 'val_loss': 1.3954429149627685, 'val_acc': 0.0}
+2025-01-03 23:23:15,102 - INFO - Epoch 2/20
+2025-01-03 23:23:22,374 - INFO - Metrics: {'train_loss': 1.3244740452085222, 'train_acc': 55.900621118012424, 'val_loss': 1.4594601392745972, 'val_acc': 0.0}
+2025-01-03 23:23:22,374 - INFO - Epoch 3/20
+2025-01-03 23:23:29,428 - INFO - Metrics: {'train_loss': 1.2487550860359555, 'train_acc': 81.36645962732919, 'val_loss': 1.5524867057800293, 'val_acc': 0.0}
+2025-01-03 23:23:29,428 - INFO - Epoch 4/20
+2025-01-03 23:23:35,818 - INFO - Metrics: {'train_loss': 1.1283697400774275, 'train_acc': 88.81987577639751, 'val_loss': 1.678728747367859, 'val_acc': 0.0}
+2025-01-03 23:23:35,819 - INFO - Epoch 5/20
+2025-01-03 23:23:42,409 - INFO - Metrics: {'train_loss': 0.9774813708804903, 'train_acc': 88.81987577639751, 'val_loss': 1.8452402114868165, 'val_acc': 0.0}
+2025-01-03 23:23:42,409 - INFO - Epoch 6/20
+2025-01-03 23:23:49,075 - INFO - Metrics: {'train_loss': 0.8601585967200143, 'train_acc': 90.06211180124224, 'val_loss': 1.964731502532959, 'val_acc': 0.0}
+2025-01-03 23:23:49,076 - INFO - Epoch 7/20
+2025-01-03 23:23:55,917 - INFO - Metrics: {'train_loss': 0.6381676551841554, 'train_acc': 91.92546583850931, 'val_loss': 1.992823600769043, 'val_acc': 0.0}
+2025-01-03 23:23:55,917 - INFO - Epoch 8/20
+2025-01-03 23:24:03,653 - INFO - Metrics: {'train_loss': 0.47453772170203073, 'train_acc': 92.54658385093168, 'val_loss': 2.150959610939026, 'val_acc': 0.0}
+2025-01-03 23:24:03,653 - INFO - Epoch 9/20
+2025-01-03 23:24:10,431 - INFO - Metrics: {'train_loss': 0.3380193469070253, 'train_acc': 92.54658385093168, 'val_loss': 2.25746808052063, 'val_acc': 0.0}
+2025-01-03 23:24:10,431 - INFO - Epoch 10/20
+2025-01-03 23:24:17,293 - INFO - Metrics: {'train_loss': 0.26176837405988146, 'train_acc': 92.54658385093168, 'val_loss': 2.39916045665741, 'val_acc': 0.0}
+2025-01-03 23:24:17,294 - INFO - Epoch 11/20
+2025-01-03 23:24:24,446 - INFO - Metrics: {'train_loss': 0.19761872628615015, 'train_acc': 92.54658385093168, 'val_loss': 2.4761844158172606, 'val_acc': 0.0}
+2025-01-03 23:24:24,447 - INFO - Epoch 12/20
+2025-01-03 23:24:31,559 - INFO - Metrics: {'train_loss': 0.16644367575645447, 'train_acc': 92.54658385093168, 'val_loss': 2.491600751876831, 'val_acc': 0.0}
+2025-01-03 23:24:31,559 - INFO - Epoch 13/20
+2025-01-03 23:24:38,588 - INFO - Metrics: {'train_loss': 0.14327734070164816, 'train_acc': 95.03105590062111, 'val_loss': 2.4863831043243407, 'val_acc': 5.0}
+2025-01-03 23:24:38,593 - INFO - Saved best model with validation accuracy:  5.0000
+2025-01-03 23:24:38,593 - INFO - Epoch 14/20
+2025-01-03 23:24:45,599 - INFO - Metrics: {'train_loss': 0.12185015773311966, 'train_acc': 98.13664596273291, 'val_loss': 2.503506088256836, 'val_acc': 10.0}
+2025-01-03 23:24:45,601 - INFO - Saved best model with validation accuracy:  10.0000
+2025-01-03 23:24:45,601 - INFO - Epoch 15/20
+2025-01-03 23:24:52,572 - INFO - Metrics: {'train_loss': 0.10477415223916371, 'train_acc': 100.0, 'val_loss': 2.472123908996582, 'val_acc': 15.0}
+2025-01-03 23:24:52,574 - INFO - Saved best model with validation accuracy:  15.0000
+2025-01-03 23:24:52,574 - INFO - Epoch 16/20
+2025-01-03 23:24:59,590 - INFO - Metrics: {'train_loss': 0.09144106493996722, 'train_acc': 100.0, 'val_loss': 2.414910387992859, 'val_acc': 17.5}
+2025-01-03 23:24:59,592 - INFO - Saved best model with validation accuracy:  17.5000
+2025-01-03 23:24:59,593 - INFO - Epoch 17/20
+2025-01-03 23:25:06,509 - INFO - Metrics: {'train_loss': 0.07547689992047492, 'train_acc': 100.0, 'val_loss': 2.370038890838623, 'val_acc': 17.5}
+2025-01-03 23:25:06,510 - INFO - Epoch 18/20
+2025-01-03 23:25:13,750 - INFO - Metrics: {'train_loss': 0.062288616029989155, 'train_acc': 100.0, 'val_loss': 2.345456838607788, 'val_acc': 17.5}
+2025-01-03 23:25:13,750 - INFO - Epoch 19/20
+2025-01-03 23:25:20,751 - INFO - Metrics: {'train_loss': 0.05181272598426966, 'train_acc': 100.0, 'val_loss': 2.283257234096527, 'val_acc': 20.0}
+2025-01-03 23:25:20,753 - INFO - Saved best model with validation accuracy:  20.0000
+2025-01-03 23:26:04,603 - INFO - Epoch 0/20
+2025-01-03 23:26:12,085 - INFO - Metrics: {'train_loss': 1.3977978166780973, 'train_acc': 27.814569536423843, 'val_loss': 1.4178540366036552, 'val_acc': 38.0}
+2025-01-03 23:26:12,088 - INFO - Saved best model with validation accuracy:  38.0000
+2025-01-03 23:26:12,088 - INFO - Epoch 1/20
+2025-01-03 23:26:19,188 - INFO - Metrics: {'train_loss': 1.3687803306077655, 'train_acc': 43.04635761589404, 'val_loss': 1.3909892014094762, 'val_acc': 44.0}
+2025-01-03 23:26:19,189 - INFO - Saved best model with validation accuracy:  44.0000
+2025-01-03 23:26:19,190 - INFO - Epoch 2/20
+2025-01-03 23:26:26,201 - INFO - Metrics: {'train_loss': 1.3326283442346674, 'train_acc': 49.66887417218543, 'val_loss': 1.352713908467974, 'val_acc': 48.0}
+2025-01-03 23:26:26,202 - INFO - Saved best model with validation accuracy:  48.0000
+2025-01-03 23:26:26,203 - INFO - Epoch 3/20
+2025-01-03 23:26:33,284 - INFO - Metrics: {'train_loss': 1.2776787971195422, 'train_acc': 61.58940397350993, 'val_loss': 1.2928884369986398, 'val_acc': 62.0}
+2025-01-03 23:26:33,286 - INFO - Saved best model with validation accuracy:  62.0000
+2025-01-03 23:26:33,287 - INFO - Epoch 4/20
+2025-01-03 23:26:40,827 - INFO - Metrics: {'train_loss': 1.179064038552736, 'train_acc': 70.19867549668874, 'val_loss': 1.1997044427054269, 'val_acc': 74.0}
+2025-01-03 23:26:40,828 - INFO - Saved best model with validation accuracy:  74.0000
+2025-01-03 23:26:40,828 - INFO - Epoch 5/20
+2025-01-03 23:26:47,616 - INFO - Metrics: {'train_loss': 1.0307717072336298, 'train_acc': 73.50993377483444, 'val_loss': 1.0699567709650313, 'val_acc': 76.0}
+2025-01-03 23:26:47,617 - INFO - Saved best model with validation accuracy:  76.0000
+2025-01-03 23:26:47,617 - INFO - Epoch 6/20
+2025-01-03 23:26:54,500 - INFO - Metrics: {'train_loss': 0.8476068189269618, 'train_acc': 72.8476821192053, 'val_loss': 0.9155056646892002, 'val_acc': 82.0}
+2025-01-03 23:26:54,502 - INFO - Saved best model with validation accuracy:  82.0000
+2025-01-03 23:26:54,502 - INFO - Epoch 7/20
+2025-01-03 23:27:01,203 - INFO - Metrics: {'train_loss': 0.6826358468909013, 'train_acc': 80.13245033112582, 'val_loss': 0.7715955419199807, 'val_acc': 92.0}
+2025-01-03 23:27:01,204 - INFO - Saved best model with validation accuracy:  92.0000
+2025-01-03 23:27:01,204 - INFO - Epoch 8/20
+2025-01-03 23:27:08,070 - INFO - Metrics: {'train_loss': 0.5324722120636388, 'train_acc': 92.71523178807946, 'val_loss': 0.6334308769021716, 'val_acc': 94.0}
+2025-01-03 23:27:08,071 - INFO - Saved best model with validation accuracy:  94.0000
+2025-01-03 23:27:08,071 - INFO - Epoch 9/20
+2025-01-03 23:27:15,001 - INFO - Metrics: {'train_loss': 0.3955201820323342, 'train_acc': 97.35099337748345, 'val_loss': 0.49318536264555796, 'val_acc': 94.0}
+2025-01-03 23:27:15,001 - INFO - Epoch 10/20
+2025-01-03 23:27:21,865 - INFO - Metrics: {'train_loss': 0.2794822854431052, 'train_acc': 99.33774834437087, 'val_loss': 0.3928137293883732, 'val_acc': 96.0}
+2025-01-03 23:27:21,873 - INFO - Saved best model with validation accuracy:  96.0000
+2025-01-03 23:27:21,874 - INFO - Epoch 11/20
+2025-01-03 23:27:28,921 - INFO - Metrics: {'train_loss': 0.19607726876672946, 'train_acc': 100.0, 'val_loss': 0.31520200840064455, 'val_acc': 96.0}
+2025-01-03 23:27:28,922 - INFO - Epoch 12/20
+2025-01-03 23:27:35,607 - INFO - Metrics: {'train_loss': 0.13869706894222059, 'train_acc': 100.0, 'val_loss': 0.2661844034280096, 'val_acc': 96.0}
+2025-01-03 23:27:35,607 - INFO - Epoch 13/20
+2025-01-03 23:27:42,207 - INFO - Metrics: {'train_loss': 0.10072322425089385, 'train_acc': 100.0, 'val_loss': 0.2338616086968354, 'val_acc': 98.0}
+2025-01-03 23:27:42,209 - INFO - Saved best model with validation accuracy:  98.0000
+2025-01-03 23:27:42,209 - INFO - Epoch 14/20
+2025-01-03 23:27:48,958 - INFO - Metrics: {'train_loss': 0.07608161749024141, 'train_acc': 100.0, 'val_loss': 0.20805181190371513, 'val_acc': 96.0}
+2025-01-03 23:27:48,959 - INFO - Epoch 15/20
+2025-01-03 23:27:55,837 - INFO - Metrics: {'train_loss': 0.059481765584726086, 'train_acc': 100.0, 'val_loss': 0.19708571769297123, 'val_acc': 96.0}
+2025-01-03 23:27:55,837 - INFO - Epoch 16/20
+2025-01-03 23:28:03,099 - INFO - Metrics: {'train_loss': 0.04811266711667964, 'train_acc': 100.0, 'val_loss': 0.18587189327393258, 'val_acc': 96.0}
+2025-01-03 23:28:03,099 - INFO - Epoch 17/20
+2025-01-03 23:28:09,781 - INFO - Metrics: {'train_loss': 0.03939106673198311, 'train_acc': 100.0, 'val_loss': 0.17715265309172018, 'val_acc': 96.0}
+2025-01-03 23:28:09,781 - INFO - Epoch 18/20
+2025-01-03 23:28:16,486 - INFO - Metrics: {'train_loss': 0.03320159444487408, 'train_acc': 100.0, 'val_loss': 0.1729756255767175, 'val_acc': 94.0}
+2025-01-03 23:28:16,486 - INFO - Epoch 19/20
+2025-01-03 23:28:23,091 - INFO - Metrics: {'train_loss': 0.02864674013108015, 'train_acc': 100.0, 'val_loss': 0.16941224544176034, 'val_acc': 94.0}

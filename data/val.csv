@@ -1,8 +1,51 @@
-text,intent
-"I'm thrilled with the quality of this item.",Positive
-"This is an awful product.",Negative
-"It's neither good nor bad.",Neutral
-"Excellent performance by the team!",Positive
-"I regret buying this so much.",Negative
-"It does the job, but not exceptionally.",Neutral
-"Such a great experience overall!",Positive
+,text,intent
+25,ma mobile order garna chahanxu,order_product
+26,malai laptop order garna man lagyo,order_product
+27,ma Redmi ko mobile order garna man lagyo,order_product
+28,mero order Casio ra Redmi ko mobile ho,order_product
+29,ma product order garna chahanxu,order_product
+30,ma saman order garna chahanxu,order_product
+31,malai product order garna man lagyo,order_product
+32,ma product order garna chahanxu,order_product
+33,malai Apple ko Iphone order garxu,order_product
+34,ma product order garna chahanxu,order_product
+35,ma order garne,order_product
+36,malai order garna man lagyo,order_product
+37,malai product order garnu cha,order_product
+38,ma saman kinne,order_product
+56,mero saman kaha aai pugyo jankari dinu,order_status_inquiry
+57,mero order ko jankari dinu,order_status_inquiry
+58,mero order ko barema janna chahanxu,order_status_inquiry
+59,mero order kaile samma aaucha,order_status_inquiry
+60,ma mero saman order kaile pauchu,order_status_inquiry
+61,mero order kaha aai pugyo,order_status_inquiry
+62,maile gareko saman order kaha aai pugyo,order_status_inquiry
+63,malai mero saman ko baarema janna man cha,order_status_inquiry
+64,mero order status ko barema jankari pauna man lagyo,order_status_inquiry
+65,mero order ko barema jankari dinu,order_status_inquiry
+66,mero order track garidinu,order_status_inquiry
+67,ma mero order track garna chahanxu,order_status_inquiry
+68,mero order status ke ho,order_status_inquiry
+123,ma kun payment baata paisa tirna sakchu,payment_method
+124,kasari payment garna sakincha,payment_method
+125,paisa ke baata tirna sakincha,payment_method
+126,pay kasari garne,payment_method
+127,payment garna kun kun method use garna sakincha,payment_method
+128,paisa tirna kun tarika use garne ho,payment_method
+129,paiasa ke baata tirne ho,payment_method
+130,paisa tirne method ke ke cha,payment_method
+131,paisa ke baata tirne,payment_method
+132,ma ke baata paisa tirna sakchu,payment_method
+133,ma ke baata payment garna sakchu,payment_method
+157,store ma kun kun saman cha,product_inquiry
+158,kun kun saman available cha store ma,product_inquiry
+159,kun kun product rakhnu vako cha store ma,product_inquiry
+160,pasal ma kun kun product rakhnu vako cha,product_inquiry
+161,kun kun product available cha store ma,product_inquiry
+162,kun product available cha store ma,product_inquiry
+163,kun saman bechnu huncha store ma,product_inquiry
+164,kun kun saman store ma available cha,product_inquiry
+165,kun product sell garnu huncha bujhna man cha,product_inquiry
+166,store ma kun kun saman available cha,product_inquiry
+167,kasto product bechnu huncha,product_inquiry
+168,kun kun product available cha,product_inquiry

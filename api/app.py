@@ -3,9 +3,7 @@ from pydantic import BaseModel, Field
 from api.model import Model
 
 app = FastAPI(title="a simple text classification")
-
 loaded_model = Model()
-
 # pred = loaded_model.predict_single("I hate this product.")
 # print(f"Got: {pred}")
 
