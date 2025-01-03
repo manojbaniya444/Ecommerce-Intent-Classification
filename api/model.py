@@ -37,6 +37,7 @@ class Model:
             raise RuntimeError("Model Loading Failed")
         
     def preprocess(self, text: str):
+        data = text.strip().lower
         data = self.train_dataset.vectorizer.transform([text]).toarray()
         data = torch.tensor(data, dtype=torch.float32)
         return data
@@ -54,5 +55,5 @@ class Model:
     
 if __name__ == "__main__":
     model = Model()
-    label = model.predict_single("I love this product.")
+    label = model.predict_single("malai redmi mobile ko barema jankari dinu.")
     print(label)

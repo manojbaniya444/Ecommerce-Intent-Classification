@@ -4,12 +4,10 @@ from api.model import Model
 
 app = FastAPI(title="a simple text classification")
 loaded_model = Model()
-# pred = loaded_model.predict_single("I hate this product.")
-# print(f"Got: {pred}")
 
 class Text(BaseModel):
     model_config = {"extra": "forbid"}
-    text: str = Query(None, min_length=10, max_length=40)
+    text: str = Query(None, min_length=10, max_length=100)
 
 @app.get("/health")
 def health_check():
